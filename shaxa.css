@@ -1,0 +1,22 @@
+#index
+{
+	text-shadow: 2px 2px red;
+	color: grey;
+	font-size: 50px;
+	font-family: Calibri;
+	font-style: oblique;
+	height: 2200px;
+	background-image: url(VIP025.jpg);
+	background-size: cover;
+}
+#movie
+{
+	text-shadow: 1px 1px red;
+	color: silver;
+	font-size: 40px;
+	font-family: Arial;
+	font-style: italic;
+	height: 5800px;
+	background-image: url(VIP025.jpg);
+	background-size: cover;
+}
